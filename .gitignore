@@ -1,0 +1,5 @@
+/.env
+/.vscode
+/txt_files
+/urls.txt
+/__pycache__
